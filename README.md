@@ -1,9 +1,16 @@
 # test
 
-
 ## 概要
 githubのコマンドテスト用。
 
+
+## 目次
+- [便利なリンク集](#便利なリンク集)
+- [HowTo](#HowTo)
+- [memo](#memo)
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## 便利なリンク集
 Githubはよく接続できなくなる。そんなときに障害情報を確認。
@@ -12,7 +19,7 @@ Githubはよく接続できなくなる。そんなときに障害情報を確�
 <br><br><br>
 
 
-## How To
+## HowTo
 ### GitBashの日本語文字化け防止
 ```bash
 echo alias ls=\'ls --show-control-chars\' > .bashrc
